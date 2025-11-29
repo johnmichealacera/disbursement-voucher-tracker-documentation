@@ -1,0 +1,31 @@
+{
+  "sidebar.tutorialSidebar.category.Getting Started": {
+    "message": "Pagsugod",
+    "description": "The label for category Getting Started in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Role-Based Guides": {
+    "message": "Mga Giya Base sa Role",
+    "description": "The label for category Role-Based Guides in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Workflows": {
+    "message": "Mga Workflow",
+    "description": "The label for category Workflows in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Features": {
+    "message": "Mga Features",
+    "description": "The label for category Features in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Approval System": {
+    "message": "Approval System",
+    "description": "The label for category Approval System in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Quick Start Guides": {
+    "message": "Mga Quick Start Guides",
+    "description": "The label for category Quick Start Guides in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Reference": {
+    "message": "Reference",
+    "description": "The label for category Reference in sidebar tutorialSidebar"
+  }
+}
+

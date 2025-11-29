@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "Disbursement Voucher Tracker",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Disbursement Voucher Tracker Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Documentation": {
+    "message": "Documentation",
+    "description": "Navbar item with label Documentation"
+  }
+}

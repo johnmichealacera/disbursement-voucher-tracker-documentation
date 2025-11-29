@@ -1,0 +1,59 @@
+{
+  "theme.AnnouncementBar.closeButtonAriaLabel": {
+    "message": "Sirado",
+    "description": "The ARIA label for close button of announcement bar"
+  },
+  "theme.BackToTopButton.buttonAriaLabel": {
+    "message": "Balik sa Taas",
+    "description": "The ARIA label for back to top button"
+  },
+  "theme.CodeBlock.copyButtonAriaLabel": {
+    "message": "Kopya ang code",
+    "description": "The ARIA label for copy code blocks button"
+  },
+  "theme.CodeBlock.copied": {
+    "message": "Nakopya na",
+    "description": "The copied button label"
+  },
+  "theme.CodeBlock.copy": {
+    "message": "Kopya",
+    "description": "The copy button label"
+  },
+  "theme.NotFound.title": {
+    "message": "WALA MAKITA",
+    "description": "The title of the 404 page"
+  },
+  "theme.NotFound.p1": {
+    "message": "Pasensya, wala namo makita ang page nga imong gipangita.",
+    "description": "The first paragraph of the 404 page"
+  },
+  "theme.NotFound.p2": {
+    "message": "Sulayi ang pagbalik sa homepage o gamita ang navigation menu.",
+    "description": "The second paragraph of the 404 page"
+  },
+  "theme.NotFound.backToHome": {
+    "message": "Balik sa Homepage",
+    "description": "The message to take the user back to the homepage"
+  },
+  "theme.Admonition.note": {
+    "message": "Note",
+    "description": "The default label used for the Note admonition (:::note)"
+  },
+  "theme.Admonition.tip": {
+    "message": "Tip",
+    "description": "The default label used for the Tip admonition (:::tip)"
+  },
+  "theme.Admonition.info": {
+    "message": "Info",
+    "description": "The default label used for the Info admonition (:::info)"
+  },
+  "theme.Admonition.caution": {
+    "message": "Caution",
+    "description": "The default label used for the Caution admonition (:::caution)"
+  },
+  "theme.Admonition.danger": {
+    "message": "Danger",
+    "description": "The default label used for the Danger admonition (:::danger)"
+  }
+}
+
