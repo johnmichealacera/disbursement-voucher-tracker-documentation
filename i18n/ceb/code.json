@@ -3,6 +3,14 @@
     "message": "Sugdi - 5min ⏱️",
     "description": "The homepage button text"
   },
+  "homepage.title": {
+    "message": "Disbursement Voucher Tracker",
+    "description": "The homepage title"
+  },
+  "homepage.tagline": {
+    "message": "Komprehensibong dokumentasyon para sa municipal government disbursement tracking",
+    "description": "The homepage tagline"
+  },
   "homepage.button.getStarted": {
     "message": "Sugdi - 5min ⏱️",
     "description": "The homepage button to get started"
