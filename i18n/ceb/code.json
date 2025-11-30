@@ -341,5 +341,33 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
+  },
+  "homepage.feature.multiRoleWorkflow": {
+    "message": "Nagsuporta sa 12 ka lain-laing user roles uban sa specific permissions ug workflows. Gikan sa mga requesters hangtod sa approvers, ang matag role adunay klaro nga responsibilities ug step-by-step guides.",
+    "description": "Homepage feature description for multi-role workflow"
+  },
+  "homepage.feature.completeTracking": {
+    "message": "Real-time tracking sa voucher status gikan sa paghimo hangtod sa release. Tan-awa ang approval progress, activity logs, ug current reviewer information sa bisag unsang panahon.",
+    "description": "Homepage feature description for complete tracking"
+  },
+  "homepage.feature.comprehensiveDocs": {
+    "message": "Detalyadong mga giya para sa matag role ug workflow, available sa English ug Bisaya. Quick start guides, troubleshooting tips, ug reference materials para makatabang kanimo nga molampos.",
+    "description": "Homepage feature description for comprehensive documentation"
+  },
+  "homepage.feature.multiRoleWorkflow.title": {
+    "message": "Multi-Role Workflow",
+    "description": "Homepage feature title for Multi-Role Workflow"
+  },
+  "homepage.feature.completeTracking.title": {
+    "message": "Kompleto nga Tracking",
+    "description": "Homepage feature title for Complete Tracking"
+  },
+  "homepage.feature.comprehensiveDocs.title": {
+    "message": "Komprehensibong Dokumentasyon",
+    "description": "Homepage feature title for Comprehensive Documentation"
+  },
+  "footer.poweredBy": {
+    "message": "Gihimo sa",
+    "description": "Footer powered by text"
   }
 }

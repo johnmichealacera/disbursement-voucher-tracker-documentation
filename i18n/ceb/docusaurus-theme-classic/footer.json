@@ -52,7 +52,7 @@
     "description": "The label of footer link with label=System Administrator linking to mailto:admin@example.com"
   },
   "copyright": {
-    "message": "Copyright © {year} Municipal Government. Built with Docusaurus.",
+    "message": "Copyright © 2025 Municipal Government. Gihimo sa Docusaurus.",
     "description": "The footer copyright"
   }
 }
